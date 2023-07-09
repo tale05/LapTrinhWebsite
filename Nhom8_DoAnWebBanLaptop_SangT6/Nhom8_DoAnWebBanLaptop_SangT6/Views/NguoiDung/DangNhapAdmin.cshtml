@@ -1,0 +1,48 @@
+﻿@model Nhom8_DoAnWebBanLaptop_SangT6.Models.DangNhap
+@Html.ValidationSummary(true)
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Đăng Nhập Dành Cho Admin</h2>
+@Html.ValidationSummary(true)
+@using (Html.BeginForm("DangNhapAdmin", "NguoiDung"))
+{
+    <form role="form">
+        <table class="table">
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example1">Tên đăng nhập</label>
+                </td>
+                <td>
+                    @*<input type="text" id="UserName" class="form-control" />*@
+                    @Html.TextBoxFor(model => model.UserName, new
+                       {
+                           @class = "form-control",
+                       })
+                    @Html.ValidationMessageFor(model => model.UserName, " ", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Mật khẩu</label>
+                </td>
+                <td>
+                    @*<input type="password" id="Password" class="form-control" />*@
+                    @Html.TextBoxFor(model => model.Password, new
+                       {
+                           @class = "form-control",
+                           type = "password"
+                       })
+                    @Html.ValidationMessageFor(model => model.Password, " ", new { @class = "text-danger" })
+                </td>
+            </tr>
+        </table>
+        <p style="color:red; font-weight:bold; font-size:35px">@ViewBag.tb</p>
+        <div style="text-align:center">
+            <button type="submit" class="btn btn-primary text-center mb-4" style="width:200px">Đăng Nhập</button>
+        </div>
+    </form>
+}
+

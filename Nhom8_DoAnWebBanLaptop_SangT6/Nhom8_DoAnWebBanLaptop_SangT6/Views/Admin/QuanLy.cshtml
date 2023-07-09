@@ -1,0 +1,55 @@
+﻿@model List<Nhom8_DoAnWebBanLaptop_SangT6.Models.SanPham>
+@{
+    ViewBag.Title = "QuanLy";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<a class="btn btn-primary mt-3" href="/admin/insert">Add new Product</a>
+<a class="btn btn-primary mt-3" href="@Url.Action("DangNhapAdmin","NguoiDung")">Log Out</a>
+<form class="d-flex align-items-center" action="/admin/quanly" method="post">
+    <label for="search" class="mx-2 my-1">Search</label>
+    <input type="search" class="form-control w-auto" id="search" name="search" value="@ViewBag.Search" placeholder="Search" />
+    <button type="submit" class="btn btn-primary mx-2">GO</button>
+</form>
+<table class="table table-striped mt-3 mb-3">
+    <tr>
+        <th>ID</th>
+        <th style="width: 300px">Tên SP</th>
+        <th>Thương Hiệu</th>
+        <th>Ảnh</th>
+        <th>Giá Giảm</th>
+        <th>Giá Bán</th>
+        <th>Số Lượng</th>
+        <th>Thông tin</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.TenSanPham</td>
+            <td>@item.ThuongHieus.TenTH</td>
+            <td>
+                <img style="width: 50px; height: 50px" src="~/Img/@item.AnhBia.Trim()" alt="Alternate Text" />
+            </td>
+            <td>@item.GiaGiam.ToString("C")</td>
+            <td>@item.GiaBan.ToString("C")</td>
+            <td>@item.SoLuong</td>
+            <td>
+                @if (item.ChiTietSanPhams.Count == 0)
+                {
+                    <p>Chưa có CTSP</p>
+                    <a class="btn btn-success" href="/admin/insertctsp?id=@item.ID">Insert Detail</a>
+                }
+                else
+                {
+                    <a class="btn btn-primary" href="/admin/detail?id=@item.ID">Chi Tiết</a>
+                }
+            </td>
+            <td>
+                <a class="btn btn-primary" href="/admin/editsp?id=@item.ID">Edit</a>
+                <a class="btn btn-danger" href="/admin/delete?id=@item.ID">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

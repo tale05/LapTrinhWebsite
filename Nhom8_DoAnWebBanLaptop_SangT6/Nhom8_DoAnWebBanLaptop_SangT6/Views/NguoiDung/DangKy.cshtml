@@ -1,0 +1,112 @@
+﻿@model Nhom8_DoAnWebBanLaptop_SangT6.Models.DangKy
+@Html.ValidationSummary(true)
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+@Html.ValidationSummary(true)
+@using (Html.BeginForm())
+{
+
+    <h3 class="text-center p-3">Đăng Ký Tài Khoản</h3>
+    <form role="form">
+        <!-- Username input -->
+        <table class="table">
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example1">Họ tên khách hàng</label>
+                </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Hotenkh, new
+                       {
+                           @class = "form-control",
+                       })
+                    @Html.ValidationMessageFor(model => model.Hotenkh, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example1">Tên đăng nhập</label>
+                </td>
+                <td>
+                    @*<input type="email" id="form2Example1" class="form-control" />*@
+                    @Html.TextBoxFor(model => model.UserName, new
+                       {
+                           @class = "form-control",
+                       })
+                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Mật khẩu</label>
+                </td>
+                <td>
+                    @*<input type="password" id="form2Example2" class="form-control" />*@
+                    @Html.TextBoxFor(model => model.Password, new
+                       {
+                           @class = "form-control",
+                           type = "password"
+                       })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Nhập lại mật khẩu</label>
+                </td>
+                <td>
+                    @*<input type="password" id="form2Example2" class="form-control" />*@
+                    @Html.TextBoxFor(model => model.RetypePassword, new
+                       {
+                           @class = "form-control",
+                           type = "password"
+                       })
+                    @Html.ValidationMessageFor(model => model.RetypePassword, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Điện thoại</label>
+                </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Sodienthoai, new
+                       {
+                           @class = "form-control",
+                           type = "number"
+                       })
+                    @Html.ValidationMessageFor(model => model.Sodienthoai, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Ngày sinh</label>
+                </td>
+                <td>
+                    <input name="txt_ngaysinh" class="form-control" type="text" placeholder="yyyy-MM-dd" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Email</label>
+                </td>
+                <td>
+                    <input name="txt_email" class="form-control" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="form-label" for="form2Example2">Địa Chỉ</label>
+                </td>
+                <td>
+                    <input name="txt_diachi" class="form-control" type="text" />
+                </td>
+            </tr>
+        </table>
+        <p style="color:red; font-weight:bold; font-size:35px">@ViewBag.TBDN</p>
+        <div style="text-align:center">
+            <button type="submit" class="btn btn-primary text-center mb-4" style="width:200px">Đăng Ký</button>
+        </div>
+    </form>
+}
+

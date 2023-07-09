@@ -1,0 +1,97 @@
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll.config
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll.config
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.xml
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CopyComplete
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\thien\OneDrive\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\Admin\Desktop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll.config
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CopyComplete
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll.config
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Nhom8_DoAnWebBanLaptop_SangT6.pdb
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Webpages.Razor.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.csproj.CopyComplete
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.dll
+C:\Users\LENOVO\Documents\#HUFI NĂM 3_HK1\LẬP TRÌNH WEB\BÀI BÁO CÁO\Nhom08_WebsitebanLaptop\Nhom8_WebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\Nhom8_DoAnWebBanLaptop_SangT6\obj\Debug\Nhom8_DoAnWebBanLaptop_SangT6.pdb

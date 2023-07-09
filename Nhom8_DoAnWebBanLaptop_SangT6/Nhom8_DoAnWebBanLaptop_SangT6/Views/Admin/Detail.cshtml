@@ -1,0 +1,35 @@
+﻿@model Nhom8_DoAnWebBanLaptop_SangT6.Models.ChiTietSanPham
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<div>
+    <h2 class="m-auto mt-3 mb-3 text-center" style="color: aqua; text-shadow: 1px 1px 5px red; width: 400px">Laptop @ViewBag.sp.TenSanPham</h2>
+</div>
+<table class="table">
+    <tr>
+        <th>Thương Hiệu</th>
+        <th>CPU</th>
+        <th>RAM</th>
+        <th>Ổ Cứng</th>
+        <th>Card</th>
+        <th>Màn Hình</th>
+        <th>Pin</th>
+        <th>Trọng Lượng</th>
+        <th>Màu Sắc</th>
+    </tr>
+    <tr>
+        <td>@ViewBag.sp.ThuongHieus.TenTH</td>
+        <td>@Model.CPU</td>
+        <td>@Model.RAM</td>
+        <td>@Model.OCUNG</td>
+        <td>@Model.CARDMH</td>
+        <td>@Model.MANHINH</td>
+        <td>@Model.PIN</td>
+        <td>@Model.TRONGLUONG</td>
+        <td>@Model.MAUSAC</td>
+    </tr>
+</table>
+<a class="btn btn-primary mt-3 mb-3 mx-2" href="/admin/editdetail?id=@Model.ID">Chỉnh Sửa Chi Tiết</a>
+<a class="btn btn-danger mt-3 mb-3 mx-2" href="/admin/quanly">Quay Lại</a>
+

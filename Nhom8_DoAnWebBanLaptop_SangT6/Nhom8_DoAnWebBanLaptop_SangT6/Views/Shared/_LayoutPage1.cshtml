@@ -1,0 +1,238 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.6.1.js"></script>
+
+</head>
+<body>
+    <div class="card-header" style=" background-color: #DC143C">
+        <div style="width: 1200px; margin: auto" class="row d-flex justify-content-center align-items-center">
+            <div class="col-2">
+                <a href="/home/index"><img style="width: 70px; height: 70px" src="~/Img/logo-removebg-preview.png" /></a>
+            </div>
+            <div class="col-7 d-flex justify-content-center">
+                <input class="form-control w-75" type="text" name="name" value="" placeholder="Tìm sản phẩm" />
+                <a class="btn btn-primary" href="/home/searchth?thuonghieu=msi">Tìm Kiếm</a>
+            </div>
+            <div class="col-3" style="text-align:right">
+                <a class="btn btn-primary" href="@Url.Action("DangKy","NguoiDung")">Đăng Ký</a>&nbsp;
+                <a class="btn btn-primary" href="@Url.Action("DangNhap","NguoiDung")">Đăng Nhập</a>
+                <a href="@Url.Action("DangXuat","NguoiDung")" class="btn btn-dark">Thoát</a>
+            </div>
+        </div>
+        <div style="width: 1200px; margin: auto" class="row d-flex justify-content-center align-items-center">
+            <div class="col-6">
+
+            </div>
+            <div class="col-4">
+                <p style="color:white; font-weight:bolder; font-size:30px">@Session["taikhoan"]</p>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .nav-th {
+            display: none;
+        }
+
+            .nav-th:hover .nav-th {
+                display: block;
+            }
+    </style>
+    @*<div class="row" style="background-color: #B22222">
+            <div style="width: 1200px; margin: auto" class="row ">
+                <nav class="navbar navbar-expand-sm navbar-dark">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home/index"><h4>SHOP&nbsp;&nbsp;&nbsp;</h4></a>
+                        </li>
+                        <li class="nav-item d-flex align-items-center">
+                            <a class="nav-link" href="#"><h4>Thương Hiệu</h4></a>
+                            <ul class="navbar-nav nav-th">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><h4>KIT&nbsp;&nbsp;&nbsp;</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><h4>KEYCAP&nbsp;&nbsp;&nbsp;</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><h4>MOUSE&SWITCH&nbsp;&nbsp;&nbsp;</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><h4>PHỤ KIỆN&nbsp;&nbsp;&nbsp;</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><h4>TÀI KHOẢN</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/admin/quanly"><h4>ADMIN</h4></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>*@
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .nav-1 {
+            position: relative;
+        }
+
+        .nav-2 {
+            display: none;
+            position: absolute;
+            left: -40px;
+            z-index: 999;
+        }
+
+        .nav-main li a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .nav-main li {
+            list-style-type: none;
+            margin-right: 70px;
+        }
+
+        .nav-1:hover .nav-2 {
+            display: block;
+        }
+
+        .nav-2 li a {
+            color: blue;
+            display: block;
+            padding: 12px 80px 12px 10px;
+            font-weight: 500;
+            font-size: 12px;
+        }
+        /*-------------------*/
+        /*edit color navigation here*/
+        .nav-2 li {
+            background-color: lightcyan;
+            padding: 0px;
+            width: 250px;
+        }
+
+            .nav-2 li:hover a {
+                background-color: #00ff90;
+            }
+        /*--------------------*/
+    </style>
+    <div style="background-color: black ;position:sticky; top:0;z-index:99">
+        <div style="background-color: black; width: 1200px; margin: 0 auto">
+            <ul class="nav-main d-flex justify-content-center">
+                <li>
+                    <a style="color:lightgrey" href="/home/index"><h4>TRANG CHỦ</h4></a>
+                </li>
+                <li class="nav-1">
+                    <a style="color:lightgrey" href=" #"><h4>THƯƠNG HIỆU</h4></a>
+                    <ul class="nav-2">
+                        <li>
+                            <a href="/home/">Tất Cả</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=ASUS">ASUS</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=MSI">MSI</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=LENOVO">LENOVO</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=HP">HP</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=ACER">ACER</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=DELL">DELL</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=GIGABYTE/AORUS">GIGABYTE/AORUS</a>
+                        </li>
+                        <li>
+                            <a href="/home/searchth?thuonghieu=HUAWEI">HUAWEI</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-1">
+                    <a style="color:lightgrey" href=" #"><h4>THEO NHU CẦU</h4></a>
+                    <ul class="nav-2">
+                        <li>
+                            <a href="/home/SearchNC?ID=1">Gaming</a>
+                        </li>
+                        <li>
+                            <a href="/home/SearchNC?ID=2">Văn Phòng</a>
+                        </li>
+                        <li>
+                            <a href="/home/SearchNC?ID=3">Editor</a>
+                        </li>
+                        <li>
+                            <a href="/home/SearchNC?ID=4">Học Sinh - Sinh Viên</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-1">
+                    <a style="color:lightgrey" href=" @Url.Action("DangNhapAdmin","NguoiDung")"><h4>ADMIN</h4></a>
+
+                </li>
+                <li class="nav-1">
+                    <a style="color:lightgrey" href="/GioHang/Index"><h4>GIỎ HÀNG (<span style="color:lightgreen">@{Html.RenderPartial("GioHangSession");}</span>)</h4></a>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="card-body">
+        <div style="width: 1200px; margin:auto">
+            @RenderBody()
+        </div>
+    </div>
+    <div class="card-footer" style=" background-color: #DC143C">
+        <hr />
+        <footer style="width: 1200px; margin: auto">
+            <div class="row">
+                <div class="col-3">
+                    <img style="width: 70px; height: 70px" src="~/Img/logo-removebg-preview.png" />
+                </div>
+                <div class="col-3">
+                    <h3>Liên Hệ</h3>
+                    <p>Qua website: <a>lugiahoang.com</a></p>
+                    <p>Qua page: <a>lugiahoang.page</a></p>
+                </div>
+                <div class="col-3">
+                    <h3>Về Gearzon</h3>
+                    <a href="#">About us</a>
+                </div>
+                <div class="col-3">
+                    <h3>Hỗ Trợ Khách Hàng</h3>
+                    <p>Kiểm tra bảo hành</p>
+                    <p>Chính sách vận chuyển</p>
+                    <p>Chính sách bảo hành</p>
+                    <p>Tải xuống & HDSD</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

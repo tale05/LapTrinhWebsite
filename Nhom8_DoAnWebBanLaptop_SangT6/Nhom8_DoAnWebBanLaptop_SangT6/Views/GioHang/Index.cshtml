@@ -1,0 +1,96 @@
+﻿@model List<Nhom8_DoAnWebBanLaptop_SangT6.Models.GioHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+@{
+    int aidi = 999;
+    int soluong = 1;
+    int sum = 0;
+    int count = 0;
+    ViewBag.aidi = aidi;
+    ViewBag.soluong = soluong;
+    ViewBag.sum = sum;
+    ViewBag.count = count;
+}
+<div class="row">
+    <div class="col-6">
+        <h2 class="">Giỏ Hàng</h2>
+    </div>
+    <div class="col-6 d-flex justify-content-end">
+        <a class="btn btn-outline-danger mt-3 mb-3" href="/GioHang/deleteall">Xoá giỏ hàng</a>
+    </div>
+</div>
+@foreach (var item in Model)
+{
+    ViewBag.count += item.SoLuong;
+}
+@if (Model.Count > 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Mã SP</th>
+            <th style="width: 320px">Tên SP</th>
+            <th>Ảnh sản phẩm</th>
+            <th>Số Lượng</th>
+            <th>Đơn giá</th>
+            <th>Thành tiền</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr class="text-center">
+                <td>@item.SanPhams.ID</td>
+                <td>@item.SanPhams.TenSanPham</td>
+                <td>
+                    <img style="width: 100px; height: 100px" src="~/Img/@item.SanPhams.AnhBia.Trim()" alt="Alternate Text" />
+                </td>
+                <td class="d-flex flex-column align-items-center">
+                    <input type="number" id="@ViewBag.soluong" name="quantity" value="@item.SoLuong" />
+                    <a href="/GioHang/delete?id=@item.SanPhams.ID" class="btn btn-outline-danger mt-3">Xoá</a>
+                </td>
+                <td>@item.SanPhams.GiaGiam.ToString("C")</td>
+                <td>
+                    @(Convert.ToDecimal(item.SanPhams.GiaGiam * item.SoLuong).ToString("C"))
+                </td>
+                <td class="d-flex justify-content-center">
+
+                    @*<a href="/cart/update?id=@item.SanPhams.ID&&quantity=@item.Quantity" id="capnhap" class="btn">Cập nhật giỏ hàng</a>*@
+                    <button id="@ViewBag.aidi" class="btn btn-primary">Cập nhập</button>
+                    <script>
+                        $(document).ready(function () {
+                            $('#@ViewBag.aidi').click(function () {
+                                const value = $('#@ViewBag.soluong').val();
+                                window.location.href = "/GioHang/update?id=@item.SanPhams.ID&&quantity=" + value;
+                            });
+                        });
+                    </script>
+
+                    @{
+            ViewBag.aidi += 1;
+            ViewBag.soluong += 1;
+            ViewBag.sum += (Convert.ToDecimal(item.SanPhams.GiaGiam * item.SoLuong));
+            ViewBag.count += item.SoLuong;
+                    }
+                </td>
+            </tr>
+        }
+        <tr>
+            <td colspan="7">
+                Thành tiền:  @ViewBag.sum.ToString("C")
+            </td>
+        </tr>
+    </table>
+    @*<button id="btnUpdate btn" class="btn">Cập nhật giỏ hàng</button>*@
+    <a class="btn btn-primary mt-3 mb-3" href="/home/index">Tiếp tục mua hàng</a>
+
+    <a class="btn btn-success mt-3 mb-3" href="#">Thanh toán</a>
+
+}
+else
+{
+    <h3 class="text-danger mt-3 mb-3">Chưa có sản phẩm nào trong giỏ hàng</h3>
+    <a class="btn btn-primary mt-3 mb-3" href="/home/index">Tiếp tục mua hàng</a>
+}
+
